@@ -57,6 +57,10 @@
 - **Review System:** Allow users to leave reviews and ratings for properties.
 - **Data Optimization:** Ensure efficient data retrieval and storage through database optimizations.
 
+## API Security
+- **Authentication:** Verify the identity of a user before granting access.
+- **Authorization:**  Control access to resources and actions based on the user’s role and permissions.
+- **Rate limiting:** Prevent abuse, protect against denial‑of‑service (DoS) attacks, and ensure fair usage of the API.
 
  
 
