@@ -1,5 +1,5 @@
 # airbnb-clone-project
-##The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
+The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
 ## Team Roles
 - **Backend Developer:** Responsible for implementing API endpoints, database schemas, and business logic.
@@ -62,7 +62,15 @@
 - **Authorization:**  Control access to resources and actions based on the user’s role and permissions.
 - **Rate limiting:** Prevent abuse, protect against denial‑of‑service (DoS) attacks, and ensure fair usage of the API.
 
- 
+## CI/CD Pipeline
+A CI/CD pipeline automates building, testing, and deploying code, catching bugs early, reducing human error, and enabling faster, safer releases. Together, these measures create a secure, reliable, and efficient platform that can scale smoothly while delivering new features quickly.
+
+### Tools Used 
+- **GitHub + GitHub Actions →** seamless integration between code changes and automated builds/tests.
+- **Docker + Docker Hub →** guarantees the same environment from development to production.
+- **Coolify + Cloud Hosting →** simplifies redeployment without manual server work.
+- **Auth0 →** keeps authentication secure across all environments.
+
 
 
 
